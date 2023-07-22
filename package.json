@@ -1,0 +1,8 @@
+{
+  "name": "interpreterbook",
+  "description": "This package.json is only easily running scripts from any sub-folder.",
+  "scripts": {
+    "go": "go run go/main.go",
+    "ts": "ts-node ts/main.ts"
+  }
+}
